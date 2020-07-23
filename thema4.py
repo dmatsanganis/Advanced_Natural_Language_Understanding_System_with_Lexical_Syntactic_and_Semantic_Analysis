@@ -5,3 +5,4 @@ def sent_split(documents):
 
 text = 'Hello all. My name is Titipat, the best LoL player.'
 sent_split(text)
+print(text)
