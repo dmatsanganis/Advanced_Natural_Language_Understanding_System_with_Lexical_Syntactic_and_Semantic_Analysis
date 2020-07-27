@@ -1,0 +1,3 @@
+This work - idea can be found:
+https://github.com/aalind0/NLP-Sentiment-Analysis-Twitter
+and have been used as an example of Sentiment Analysis App.
