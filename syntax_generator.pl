@@ -8,4 +8,3 @@ verb(verb(brought)) --> [brought].
 noun(noun(waiter)) --> [waiter].
 noun(noun(meal)) --> [meal].
 noun(noun(table)) --> [table].
-
