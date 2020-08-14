@@ -13,7 +13,7 @@ grammar = nltk.CFG.fromstring("""
   Adj  -> 'scary' | 'tall' |  'short' | 'blonde' | 'slim' | 'fat'
   V ->  'chased'  | 'chase' | 'needs' | 'hates' | 'hate' | 'has' | 'has' | 'have' | 'loves' | 'love' | 'kicks' | 'kick' | 'jumps' | 'jump'
   """)
-sentence = "the dog is slim"
+sentence = "mary gave john a book"
 sent=sentence.split()
 rd_parser = nltk.RecursiveDescentParser(grammar)
 print("Parsing  the sentence:"+ " " + sentence)
@@ -21,4 +21,3 @@ for tree in rd_parser.parse(sent):
     print("The tree for the above sentence is:")
     print(tree)
     break
-    
