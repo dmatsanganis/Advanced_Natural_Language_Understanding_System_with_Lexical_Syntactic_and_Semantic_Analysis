@@ -16,6 +16,6 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENCE) fil
 
 ## Contributors
 
-[X][Panagiotis Apostolopoulos](https://github.com/papost) \
-[X][Dimitris Matsanganis](https://github.com/dimitrismatsanganis) \
-[X][Alexandros Scarpelos](https://github.com/alexhsog)
+- [X] [Panagiotis Apostolopoulos](https://github.com/papost) \
+- [X] [Dimitris Matsanganis](https://github.com/dimitrismatsanganis) \
+- [X] [Alexandros Scarpelos](https://github.com/alexhsog)
