@@ -12,7 +12,7 @@ You can find further information regarding the development of this project under
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](/LICENCE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Contributors
 
